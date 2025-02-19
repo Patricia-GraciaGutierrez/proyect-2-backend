@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Healthy Mineral Proteccion Sunscreen",
-      "capacity": "100ml",
+      "capacity": "100 ml",
       "brand": "Freshly Cosmetics",
       "category": "Protección solar",
       "ingredients": [
@@ -31,7 +31,7 @@
         "Carthamus Tinctorius Seed Oil"
       ],
       "description": "¡Protege tu piel del sol en el día a día mientras la nutres e hidratas! Esta crema te protege de las radiaciones y el daño celular provocado por los rayos UV. Sus filtros físicos ofrecen un alto grado de protección, actuando desde la epidermis sin penetrar en capas más profundas, evitando así la entrada de sustancias químicas en tu organismo, mientras sus ingredientes antioxidantes previenen el fotoenvejecimiento de la piel. ¡Más protección y menos arrugas, ¡con acabado mate y natural!",
-      "price": "30,95 €",
+      "price": 30.95,
       "image": "https://canarias.druni.es/media/catalog/product/8/6/8699.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:"
     },
     {
@@ -58,7 +58,7 @@
         "glycine soja (soybean) oil"
       ],
       "description": "Bioderma Photoderm Mineral SPF 50+ Fluido 75g es un protector solar de alta protección diseñado para pieles sensibles, proporcionando una barrera física frente a los daños del sol. Su fórmula mineral garantiza una protección eficaz contra los rayos UVA y UVB sin el uso de filtros químicos, lo que lo hace especialmente adecuado para pieles sensibles y reactivas.",
-      "price": "8,99 €",
+      "price": 8.99,
       "image": "https://media.appsfarma.com/wemakeit/es/bioderma-photoderm-mineral-spf50-spray-rostro-y-cuerpo-100-gramos.jpg"
     },
     {
@@ -71,7 +71,7 @@
         "Colgate Protection Caries es una pasta de dientes con flúor activo y calcio líquido para conseguir unos dientes más fuertes. Está clínicamente testado para luchar contra la caries en la superficie del diente y en las raíces expuestas. La fórmula de este dentífrico protección caries con calcio líquido ayuda a fortalecer los dientes y a reparar las zonas debilitadas del esmalte antes de que la caries empiece a actuar. Fantástico sabor a menta, refresca el aliento."
       ],
       "description": "Colgate Protection Caries es una pasta de dientes con flúor activo y calcio líquido para conseguir unos dientes más fuertes. Está clínicamente testado para luchar contra la caries en la superficie del diente y en las raíces expuestas. La fórmula de este dentífrico protección caries con calcio líquido ayuda a fortalecer los dientes y a reparar las zonas debilitadas del esmalte antes de que la caries empiece a actuar. Fantástico sabor a menta, refresca el aliento.",
-      "price": "2,55 €",
+      "price": 2.55,
       "image": "https://m.media-amazon.com/images/I/71vQtlOtJuL._AC_SX679_.jpg"
     },
     {
@@ -98,7 +98,7 @@
         "xylitol"
       ],
       "description": "Enjuague bucal con agua de hoja de menta. Testado bajo control odontológico. Ayuda a mantener un aliento fresco duradero. Limpia y ayuda a combatir la placa dental.",
-      "price": "3,99 €",
+      "price": 3.99,
       "image": "https://static.carrefour.es/hd_510x_/img_pim_food/678029_00_1.jpg"
     },
     {
@@ -138,7 +138,7 @@
         "Citral"
       ],
       "description": "Descubre el secreto para una piel deslumbrante con esta crema nutritiva de absorción rápida. Esta fórmula maestra combina lo mejor de la naturaleza y la ciencia con extractos botánicos selectos de pensamiento, caléndula y manzanilla orgánicas. Enriquecida con hoja de olivo orgánico, escualeno y aceite de girasol orgánico, nuestra crema no solo hidrata y nutre la piel en profundidad, sino que también ayuda a restaurar su barrera cutánea para revelar una textura suave y un brillo saludable. Aporta al rostro un confort inmediato.",
-      "price": "17,99 €",
+      "price": 17.99,
       "image": "https://assets.atida.com/transform/f9c9b9b7-cd78-4d02-ba16-2127aaf239e6/Weleda-Skin-Food-Crema-de-Dia-40-ml?io=transform:extend,width:600,height:600"
     },
     {
@@ -166,7 +166,7 @@
         "Aloe Barbadensis Leaf Juice Powder"
       ],
       "description": "Mascarilla de arcilla verde que limpia de manera eficaz la piel, al mismo tiempo que la hidrata. Formulada especialmente para su uso en pieles mixtas o grasas, ayudando a la piel a conservar sus reservas de agua. Producto testado bajo control dermatológico. Fórmula sin mircoplásticos.",
-      "price": "3,60 €",
+      "price": 3.60,
       "image": "https://www.lidl.es/media/product/0/0/5/8/7/5/3/mascarilla-facial-arcilla-zoom--2.jpg"
     },
     {
@@ -195,7 +195,7 @@
         "Potassium Sorbate"
       ],
       "description": "Loción corporal hidratante extrasuave indicada para todo tipo de pieles. Enriquecida con extractos naturales, retrasando el envejecimiento de forma activa. Suaviza y protege la piel frente a la sequedad. Apto para veganos, contiene un 99% de ingredientes de origen natural.",
-      "price": "4,99 €",
+      "price": 4.99,
       "image": "https://assets.atida.com/transform/e0be73b9-a669-41e3-bbb3-ab581b0f675b/Instituto-Espanol-Natura-Madre-Tierra-Locion-Corporal-300-ml?io=transform:extend,width:600,height:600"
     },
     {
@@ -208,7 +208,7 @@
         "Cocos Nucifera Oil from organic agriculture. 100% organic of total. 100% natural origin of total."
       ],
       "description": "Elaborado a partir de coco de cultivo ecológico. Un aliado para el cabello dañado y la piel seca. Contiene hasta un 90% de ácidos lípidos saturados, además ácido láurico, ácido caprílico y ácido mirístico, vitaminas B y E.",
-      "price": "6,99 €",
+      "price": 6.99,
       "image": "https://www.arenal.com/medias/76929OriginalImage-pdpFormat?context=bWFzdGVyfGltYWdlc3w5MzM4fGltYWdlL3dlYnB8aW1hZ2VzL2hhYy9oZjEvOTY5MDM5Mjk4NTYzMC53ZWJwfDcyOGEyNmU5OTFjMjJjYWMyYjgzNzMyNGQyNGZhZDE4YzVjOTE4N2Q1NDkyOWVkOTA0YTI3M2YzNmEwZmMyMmM"
     },
     {
@@ -235,7 +235,7 @@
         "Linalool"
       ],
       "description": "Este champú suave no sólo combate las impurezas, sino que también elimina el sebo y la suciedad de los poros de la piel gracias a los tensioactivos vegetales suaves. El cabello fino y débil y el cuero cabelludo sensible reciben el tratamiento adecuado gracias a su formulación ligera y natural. El champú también garantiza el grado adecuado de hidratación y protege el cabello de las puntas abiertas.",
-      "price": "3,99 €",
+      "price": 3.99,
       "image": "https://cdn2.primor.eu/media/catalog/product/cache/8d3aba296f7a18b5251ee30fa5db42b2/E/N/EN_4260198098364_benecos_Natural_Basics_Shampoo_Sensitiv_web_0e87.png"
     },
     {
@@ -271,7 +271,7 @@
         "Linalool"
       ],
       "description": "Nuestra fórmula cuidadosamente equilibrada con menta y lima orgánica está especialmente diseñada para satisfacer las necesidades del cabello y limpiarlo en profundidad, al mismo tiempo que le brinda frescura duradera y ayuda a restaurar el equilibrio natural del cuero cabelludo.",
-      "price": "6,82 €",
+      "price": 6.82,
       "image": "https://www.lavera.com/media/1240x1240x90/bb/f1/49/c6d1061708db350e14f132ad25dd50f4/114029_hero.jpg"
     },
     {
@@ -303,7 +303,7 @@
         "potassium borbate"
       ],
       "description": "Desodorante 24h con extracto de hibisco ecológico. Tolerancia testada bajo control dermatológico. Deja la piel suave y delicadamente perfumada.",
-      "price": "1,99 €",
+      "price": 1.99,
       "image": "https://static.carrefour.es/hd_510x_/img_pim_food/668836_00_1.jpg"
     },
     {
@@ -335,7 +335,7 @@
         "Parfum (Fragrance)"
       ],
       "description": "Calme Curcuma es una rutina creada por Neutrogena para purificar las pieles con imperfecciones con suavidad sin irritarlas. La bruma calmante de cúrcuma es rica en cúrcuma, conocida por sus propiedades antioxidantes y calmantes. Esta bruma hidrata y calma las pieles irritadas por las imperfecciones. La piel recupera su comodidad, resplandeciente de salud. Su fórmula es especialmente adecuada para pieles sensibles con imperfecciones.",
-      "price": "8.72 €",
+      "price": 8.72,
       "image": "https://m.media-amazon.com/images/I/71b-09YuS+L._AC_SX466_.jpg"
     },
     {
@@ -358,7 +358,7 @@
         "Eugenol"
       ],
       "description": "Denttabs es un dentífrico \"sin tubo\" que reúne muchas ventajas útiles como ecológicas: una dosificación siempre perfecta. 1 pastilla de Denttabs = 1 lavado. Esta pasta de dientes en pastilla no deja nada de manchas y desperdicios en el lavabo. Esta es una buena alternativa a los tubos medio secos por falta de poner la tapa y además terminas con los residuos innecesarios de plástico. Los denttabs se usan igual que un dentífrico convencional, simplemente hay que masticarlo en la boca durante 5 segundos antes de empezar. El lavado es igual de eficaz y más agradable al llevar menos espuma y dejar los dientes más lisos gracias a la celulosa microcristalina.",
-      "price": "6.99 €",
+      "price": 6.99,
       "image": "https://assets.atida.com/transform/e56e5caa-5f1b-4ef5-867a-6a8be8cb43d3/Denttabs-Dentifrico-en-Pastillas-Ecologico-sin-Fluor-125-uds?io=transform:extend,width:600,height:600"
     }
   ]
