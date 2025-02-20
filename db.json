@@ -66,7 +66,7 @@
       "name": "Colgate Maximum Caries Protection",
       "capacity": "75 ml",
       "brand": "Colgate",
-      "category": "Higiene Dental",
+      "category": "Higiene dental",
       "ingredients": [
         "Colgate Protection Caries es una pasta de dientes con flúor activo y calcio líquido para conseguir unos dientes más fuertes. Está clínicamente testado para luchar contra la caries en la superficie del diente y en las raíces expuestas. La fórmula de este dentífrico protección caries con calcio líquido ayuda a fortalecer los dientes y a reparar las zonas debilitadas del esmalte antes de que la caries empiece a actuar. Fantástico sabor a menta, refresca el aliento."
       ],
@@ -106,7 +106,7 @@
       "name": "Skin Food Crema de Día",
       "capacity": "40 ml",
       "brand": "Weleda",
-      "category": "cuidado facial",
+      "category": "Cuidado facial",
       "ingredients": [
         "Water (Aqua)",
         "Helianthus Annuus (Sunflower) Seed Oil",
@@ -174,7 +174,7 @@
       "name": "Natura Madre Tierra Loción Corporal",
       "capacity": "300 ml",
       "brand": "Instituto Español",
-      "category": "higiene corporal",
+      "category": "Higiene corporal",
       "ingredients": [
         "Aqua (Water)",
         "Caprylic/Capric Triglyceride",
@@ -200,10 +200,10 @@
     },
     {
       "id": 8,
-      "name": "aceite de coco ecológico",
+      "name": "Aceite de coco ecológico",
       "capacity": "250 ml",
       "brand": "Arganour",
-      "category": "cuidado corporal",
+      "category": "Cuidado corporal",
       "ingredients": [
         "Cocos Nucifera Oil from organic agriculture. 100% organic of total. 100% natural origin of total."
       ],
@@ -279,7 +279,7 @@
       "name": "Desodorante roll-on eficacia 24h con hibisco ecológico",
       "capacity": "50ml",
       "brand": "Carrefour",
-      "category": "higiene corporal",
+      "category": "Higiene corporal",
       "ingredients": [
         "aqua",
         "triethyl citrate",
@@ -311,7 +311,7 @@
       "name": "Calme Cúrcuma",
       "capacity": "125 ml",
       "brand": "Neutrogena",
-      "category": "cuidado facial",
+      "category": "Cuidado facial",
       "ingredients": [
         "Aqua (Water)",
         "Cocamidopropyl Betaine",
@@ -343,7 +343,7 @@
       "name": "Denttabs",
       "brand": "Dentífrico en Pastillas Ecológico sin Flúor",
       "capacity": "125 uds",
-      "category": "higiene dental",
+      "category": "Higiene dental",
       "ingredients": [
         "Microcrystalline Cellulose",
         "Sodium Bicarbonate",
